@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="floating_background">#aa121212</color>
+
+    <color name="shapeStartColor">#3b84f4</color>
+    <color name="shapeEndColorFirst">#40bec5</color>
+    <color name="shapeEndColorSecond">#af73ff</color>
+    <color name="shapeEndColorThird">#3fc483</color>
+    <color name="shapeEndColorFourth">#c99a39</color>
+    <color name="shapeEndColorFifth">#cf5471</color>
+    <color name="shapeEndColorSixth">#cc5298</color>
+
+    <color name ="dock_bg_color">#fd0035</color>
+    <color name ="dock_icon_color">#b50a30</color>
+
+    <color name="text_color_white_dark">#88ffffff</color>
+    <color name="text_color_white_normal">#aaffffff</color>
+    <color name="text_color_white_focus">#ffffffff</color>
+
+    <color name="small_item_background">#da00ace0</color>
+    <color name="small_item_focus_background">#00ace0</color>
+</resources>
